@@ -8,6 +8,8 @@ No physics engine behind it, just damped springs and scripted phases in one rAF 
 
 Obvious but worth saying: this checks that someone is *playing*, not who they are. Keep it in front of your real checks, don't replace them with it.
 
+<video src="https://github.com/user-attachments/assets/bc6bd3f6-173a-4aa8-a2ac-09cb47742179" controls muted loop width="420"></video>
+
 Try it live: https://feralui.vercel.app/#/captcha
 
 This is part of [FeralUI](https://github.com/mortspace/feralui).
