@@ -1,0 +1,18 @@
+{
+  "name": "playcaptcha",
+  "version": "0.1.0",
+  "description": "claw machine captcha for react - grab the right toy to prove you're human",
+  "type": "module",
+  "license": "MIT",
+  "exports": {
+    ".": "./src/index.ts",
+    "./clawcaptcha.css": "./src/clawcaptcha.css"
+  },
+  "peerDependencies": {
+    "react": ">=18",
+    "react-dom": ">=18"
+  },
+  "dependencies": {
+    "motion": "^12.0.0"
+  }
+}
